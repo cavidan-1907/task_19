@@ -437,4 +437,7 @@ header .header .top .p {
   display: flex;
   align-items: center;
   gap: 5px;
+}
+header .header .griditem1 {
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */
